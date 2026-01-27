@@ -1,8 +1,6 @@
 
   # Image Management System
 
-  This is a code bundle for Image Management System. The original project is available at https://imagecms.figma.site
-
   # Image CMS
 
 A modern, aesthetic image content management system built with React, TypeScript, and Supabase. Upload, organize, search, and manage your images with a beautiful dark-themed interface.
@@ -14,7 +12,7 @@ A modern, aesthetic image content management system built with React, TypeScript
 
 ## 🌐 Live Demo
 
-Visit the live site: **[https://Imagemanagementsystem.github.io/image-cms](https://Imagemanagementsystem.github.io/image-cms)**
+Visit the live site: **[ https://imagecms.figma.site]( https://imagecms.figma.site)**
 
 
 ## ✨ Features
