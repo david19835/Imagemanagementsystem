@@ -1,7 +1,7 @@
 
   # Image Management System
 
-  This is a code bundle for Image Management System. The original project is available at https://www.figma.com/design/zzEwxINyCJfYbXKhtFXX38/Image-Management-System.
+  This is a code bundle for Image Management System. The original project is available at https://imagecms.figma.site
 
   ## Running the code
 
