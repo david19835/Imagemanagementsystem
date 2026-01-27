@@ -14,7 +14,7 @@ A modern, aesthetic image content management system built with React, TypeScript
 
 ## 🌐 Live Demo
 
-Visit the live site: **[https://Harshg1506.github.io/image-cms](https://Harshg1506.github.io/image-cms)**
+Visit the live site: **[https://Imagemanagementsystem.github.io/image-cms](https://Imagemanagementsystem.github.io/image-cms)**
 
 
 ## ✨ Features
