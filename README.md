@@ -92,33 +92,6 @@ Before you begin, ensure you have:
 5. **Open your browser**
    Navigate to `http://localhost:5173` (or the port shown in your terminal)
 
-## 🚀 Deploy to GitHub Pages
-
-This project is configured to automatically deploy to GitHub Pages when you push to the main branch.
-
-### Steps:
-
-1. **Push your code to GitHub** (see instructions above)
-
-2. **Enable GitHub Pages**:
-   - Go to your repository on GitHub
-   - Click **Settings** → **Pages**
-   - Under "Build and deployment":
-     - Source: **GitHub Actions**
-   - Click **Save**
-
-3. **Push to trigger deployment**:
-   ```bash
-   git add .
-   git commit -m "Deploy to GitHub Pages"
-   git push origin main
-   ```
-
-4. **Wait for deployment**:
-   - Go to the **Actions** tab in your repository
-   - Watch the deployment process (takes 1-2 minutes)
-   - Once complete, your site will be live at:
-     `https://YOUR_USERNAME.github.io/image-cms`
 
 ### Manual Build (Optional)
 
